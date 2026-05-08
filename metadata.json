@@ -1,0 +1,6 @@
+{
+  "name": "HealthMate",
+  "description": "A comprehensive wellness tracking application for monitoring BMI, BMR, daily calorie needs, and health history with a built-in AI wellness assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
